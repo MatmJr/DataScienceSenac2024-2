@@ -1,7 +1,10 @@
-# DataScienceSenac2024-2
-Repositório com slides, códigos e outros materiais usados em aula.
+# README
 
-Abrir o cmd e colar digitar os comandos
+Colab da aula:
+
+https://drive.google.com/file/d/1BH06JkHKjIrvscUSjdSMJDAm3k64xhve/view?usp=sharing
+
+Para quem for trabalhar local: 
 
 Windows
 ```bash
